@@ -9,7 +9,9 @@
 # importing all the required libraries
 
 """ Implementing logistic regression for classification problem
-     Helpful resources : 1.Coursera ML course    2.https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac"""
+     Helpful resources : 
+     1.Coursera ML course    
+     2.https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac"""
 
 import numpy as np
 import matplotlib.pyplot as plt
